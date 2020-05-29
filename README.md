@@ -1,2 +1,3 @@
 # personal-starting-point
-Subiective selection of issue templates and another settings.
+
+Subjective selection of materials and designs useful when starting a project.
